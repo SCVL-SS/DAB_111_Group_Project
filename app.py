@@ -26,7 +26,7 @@ def data():
     champs = cursor.execute("SELECT * FROM champs").fetchall()
     con.close()
 
-    return render_template("data.html", champs = champs) # template data_table 
+    return render_template("data.html", champs = champs) 
 
 @app.route("/link")
 def references():
