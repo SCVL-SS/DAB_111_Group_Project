@@ -6,11 +6,12 @@ The files in this repository represent our final deliverables for the completion
 Install all necessary packages / dependencies before running any scripts by running this command: 'pip install -r requirements.txt' in your terminal.
 
 ## Usage
-1. In your IDE Run the 'app.py' script
-2. CTRL + Click the link generated in your terminal.
-3. Once it opens in the browser, navigate through the pages.
-4. Close the browser after exploring the pages.
-5. Return to your IDE and CTRL + C in the terminal to stop your local host.
+1. In your IDE open 'app.py' and change path to match computer path of data.
+2. Run the 'app.py' script
+3. CTRL + Click the link generated in your terminal.
+4. Once it opens in the browser, navigate through the pages.
+5. Close the browser after exploring the pages.
+6. Return to your IDE and CTRL + C in the terminal to stop your local host.
 
 
 ## Features
