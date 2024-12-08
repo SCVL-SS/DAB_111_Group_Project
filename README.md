@@ -15,7 +15,7 @@ Install all necessary packages / dependencies before running any scripts by runn
 
 
 ## Features
-* Data tab displays a Complete list of all League of Lengends chamions and their in-game statistics.
+* Data tab displays a Complete list of all League of Lengends champions and their in-game statistics.
 
 * About tab will show the list of variables used in the Data tab along with it's data type.
 
