@@ -29,3 +29,6 @@ This project is done in collaboration of the members of Group 7:
 
 ## Contact
 For questions, issues, suggestions and other concerns you may reach us at
+* https://www.linkedin.com/in/scott-van-lare/
+* https://www.linkedin.com/in/ipapac/
+* https://www.linkedin.com/in/yazan-al-shash/
