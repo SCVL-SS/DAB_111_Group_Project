@@ -22,8 +22,8 @@ Install all necessary packages / dependencies before running any scripts by runn
 ## Contribution
 This project is done in collaboration of the members of Group 7:
 
-* Ivan Papac
 * Scott Van Lare
+* Ivan Papac
 * Yazan Al-Shash
 * Kayode Babalola
 
